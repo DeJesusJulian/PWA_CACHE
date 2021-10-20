@@ -24,7 +24,7 @@ self.addEventListener('install', (event) => {
             '/PWA_CACHE/',
             '/PWA_CACHE/index.html',
             '/PWA_CACHE/css/pages.css',
-            '/U2_PWA_CACHEP4/img/imagen.jpg',
+            '/PWA_CACHE/img/imagen.jpg',
             '/PWA_CACHE/js/app.js',
             '/PWA_CACHE/pages/viewOffline.html',
             '/PWA_CACHE/img/imagen2.jpg'
