@@ -1,5 +1,5 @@
 let url = window.location.href
-let swDirect = "/U2_P4_CACHE/sw.js"
+let swDirect = "/PWA_CACHE/sw.js"
 
 if(navigator.serviceWorker){
     if(url.includes('localhost')){
@@ -9,7 +9,7 @@ if(navigator.serviceWorker){
 }
 
 /*if(window.caches){
-    console.log("Habemus cache")
+    console.log("cache")
 
     caches.open('prueba')
     caches.open('prueba-v2')
